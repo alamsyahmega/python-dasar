@@ -15,6 +15,8 @@ Ada 33 *keywords* di Python 3.7. Jumlah ini mungkin bisa berubah mengikuti perke
 
 Semua *keywords* kecuali `True`, `False` dan `None` menggunakan huruf kecil (*lowercase*) dan harus ditulis secara semestinya. List dari *keywords* adalah sebagai berikut:
 
+| | | | | |
+|-|-|-|-|-|
 | `False`  | `await`    | `else`    | `import`   | `pass`   |
 | `None`   | `break`    | `except`  | `in`       | `raise`  |
 | `True`   | `class`    | `finally` | `is`       | `return` |
